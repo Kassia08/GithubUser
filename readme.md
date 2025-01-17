@@ -5,6 +5,8 @@
 <p align="center">
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 06. Toda a estrutura da tabela foi construída em HTML com a ajuda de funções em JavaScript para deixá-la bem dinâmica. <br/>
 Segui as seguintes instruções no decorrer deste desafio: </br>
+
+</br>
 </br>
 ** PRIMEIRA CLASSE JAVASCRIPT - class Favorites
 
