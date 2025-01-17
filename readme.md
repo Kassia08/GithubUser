@@ -8,6 +8,8 @@ Segui as seguintes instruções no decorrer deste desafio:
 
 </br>
 </br>
+</br>
+
 ** PRIMEIRA CLASSE JAVASCRIPT - class Favorites
 
 - Ela irá conter a lógica dos dados
