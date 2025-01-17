@@ -4,23 +4,20 @@
 
 <p align="center">
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 06. Toda a estrutura da tabela foi construída em HTML com a ajuda de funções em JavaScript para deixá-la bem dinâmica. <br/>
-Segui as seguintes instruções no decorrer deste desafio: </br>
+Segui as seguintes instruções no decorrer deste desafio: 
 
 </br>
 </br>
 ** PRIMEIRA CLASSE JAVASCRIPT - class Favorites
-
 - Ela irá conter a lógica dos dados
 - Como os dados serão estruturados
 </br>
 </br>
 ** SEGUNDA CLASSE JAVASCRIPT - FavoritesView
-
 - Vai criar a vizualização e eventos do HTML
 </br>
 </br>
 **  CLASSE GITHUBUSER     - class GithubUser
-
 - Essa classe irá ser criada lá no início antes dessas duas, para estruturar 
 os dados dos usuários do Github que estão no formato JSON. 
 - Depois crie uma pasta só para ela e a mova para lá. Faça o IMPORT dela na pasta
