@@ -3,65 +3,69 @@
 <img alt="Galeria" src="./imagens/projeto.png" width="100%">
 
 <p align="center">
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 06. Toda a estrutura da tabela foi construída em HTML com a ajuda de funções em JavaScript para deixá-la bem dinâmica. <br/>
-Segui as seguintes instruções no decorrer deste desafio: 
+In this challenge, you will have to recreate an application, based on a layout, to practice what you have learned so far in Stage 06. The entire table structure was built in HTML with the help of JavaScript functions to make it very dynamic. <br/>
+I followed the following instructions throughout this challenge: 
 
 </br>
 </br>
 </br>
 
-** PRIMEIRA CLASSE JAVASCRIPT - class Favorites
+** FIRST CLASS JAVASCRIPT - class Favorites
 
-- Ela irá conter a lógica dos dados
-- Como os dados serão estruturados
+- It will contain the data logic
+- How the data will be structured
 </br>
 </br>
-** SEGUNDA CLASSE JAVASCRIPT - FavoritesView
+** SECOND CLASS JAVASCRIPT - FavoritesView
 
-- Vai criar a vizualização e eventos do HTML
+- It will create the HTML view and events
 </br>
 </br>
-**  CLASSE GITHUBUSER     - class GithubUser
+**  CLASS GITHUBUSER     - class GithubUser
 
-- Essa classe irá ser criada lá no início antes dessas duas, para estruturar 
-os dados dos usuários do Github que estão no formato JSON. 
-- Depois crie uma pasta só para ela e a mova para lá. Faça o IMPORT dela na pasta
+- This class will be created at the beginning before these two, to structure 
+Github user data that is in JSON format. 
+- Then create a folder just for it and move it there. IMPORT it into the folder
 Favorites.js
 </br>
 </br>
-** Observação: É importante saber que todas essas classes foram criadas com o EXPORT na frente para que,
-caso no futuro, queira usá-las em algum lugar, pra saber que dá pra exportar.
+** Note: It is important to know that all of these classes were created with EXPORT in front so that,
+If in the future, you want to use them somewhere, to know that you can export them.
 
 
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 ProjeCT
 
 Github User
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/design/4RvApe69hGnKBUl6QhiCVZ/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=104-48&p=f&t=aTvXP0XxdJ3HvXeB-0). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo.
+You can view the project layout through [DESSE LINK] (https://www.figma.com/design/4RvApe69hGnKBUl6QhiCVZ/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=104-48&p=f&t=aTvXP0XxdJ3HvXeB-0). It is necessary to have an account [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
 
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!] (https://discord.gg/rocketseat)
+This project is under the MIT License.
 
 ---
 
-Esse projeto foi realizado pela aluna Kássia Almeida Moura em 2025.
-# Projeto-12
+
+Made with ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+---
+
+
+This project was carried out by student Kássia Almeida Moura in 2025.
+# Project-12
 
 
